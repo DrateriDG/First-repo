@@ -60,5 +60,6 @@ public class Main {
         } else {
             System.out.println("------------\nNo charge extra\n------------");
         }
+        System.out.println("holi");
     }
 }
